@@ -1,0 +1,26 @@
+body{
+    background-color: #D5E1EF;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+.card{
+    height: 470px;
+    width: 100%;
+    max-width: 302px;
+    padding: 1rem;
+    padding-bottom: 2rem;
+    background-color: white;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    margin: auto;
+    inset: 0;  /*margin and inset calculate the value of top,left,right,bottom margin auto 4 side are equal and in inset gives value equally */
+    border-radius: 16px;
+    
+
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
